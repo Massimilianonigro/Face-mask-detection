@@ -4,3 +4,4 @@
 </p>
 Homework of the Artificial Neural Networks and Deep Learning course. 
 Classification of images depicting groups of people based on the number of masked people.
+Report of the solution adopted can be found at the <a href="https://github.com/Massimilianonigro/Face-mask-detection/blob/main/faceMaskDetection.ipynb">beginning of the notebook</a>.
